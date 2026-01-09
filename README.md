@@ -31,8 +31,8 @@
     ```
 
 2.  **Variables de Entorno (.env):**
-    > [!TIP]
-    > Asegúrate de tener tus API keys de Groq listas.
+    > [TIP]
+    > Asegúrate de tener tus API keys de [Groq](https://groq.com/) y [Pollinations](https://pollinations.ai/) listas.
     ```env
     DISCORD_TOKEN=...
     GROQ_API_KEY=...
