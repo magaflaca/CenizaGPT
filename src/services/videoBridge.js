@@ -34,7 +34,7 @@ function analyzeVideo({ input, mode, prompt, model }, { timeoutMs = 300_000 } = 
     const pythonBin = pickPythonBin();
     const script = path.join(process.cwd(), 'python', 'video_bridge.py');
 
-    const args = ['--mode', mode, '--input', input, '--prompt', prompt, '--auto-proxy'];
+    const args = ['--mode', mode, '--input', input, '--prompt', prompt, '--proxy', 'socks5://127.0.0.1:40000'];
     if (model) args.push('--model', model);
 
     const cookiesPath = path.join(process.cwd(), 'cookies.txt');
@@ -85,3 +85,4 @@ function analyzeVideo({ input, mode, prompt, model }, { timeoutMs = 300_000 } = 
 }
 
 module.exports = { analyzeVideo };
+
