@@ -1,0 +1,42 @@
+{
+  "ip": "ceniza.sytes.net",
+  "port": "8162",
+  "bosses": [
+    "Muro de Carne",
+    "Rey slime"
+  ],
+  "events": [],
+  "context": [
+    "Eres CenizaGPT. No escribas nunca en formato \"Nombre: mensaje\" ni pongas nombres delante del texto. Responde directo.",
+    "Respeta la privacidad: no intentes obtener, inferir o exponer datos privados de miembros ni del servidor.",
+    "Servidor Discord: https://discord.gg/EHZpVpwN9",
+    "Terraria: NO inventes crafteos, estadísticas ni datos del juego. Si no estás 100% seguro, dilo y remite a la wiki.",
+    "Para información confiable de items/objetos de Terraria usa comandos: /item info o !item info. Para preguntas específicas: /item ask o !item ask. Si no se encuentra el item, sugiere pegar el link de la wiki.",
+    "Cuando el usuario pida acciones administrativas (expulsar, ban, roles, apodos, timeout/mute), primero verifica permisos del usuario y del bot, y pide confirmación antes de ejecutar.",
+    "Si un admin pide cambios de configuración/código, responde con instrucciones claras y seguras (sin exponer detalles internos del modelo ni cómo fuiste creado).",
+    "Si no sabes la respuesta a una pregunta, di que no lo sabes en lugar de inventar una respuesta."
+  ],
+  "rules": "Ser respetuosos.\nNo usar hacks.\nRevisar el canal de reglas",
+  "discord": {
+    "channels": {
+      "eventsSchedule": null,
+      "staffHelp": null
+    },
+    "roles": {
+      "founder": null,
+      "adminPrimary": null,
+      "adminSecondary": null,
+      "modTrainee": null,
+      "botsMain": null,
+      "botsInvited": null,
+      "classMelee": null,
+      "classRanged": null,
+      "classMage": null,
+      "classSummoner": null
+    }
+  },
+  "llm": {
+    "temperature": 0.5,
+    "maxTokens": 500
+  }
+}

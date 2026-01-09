@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------
+                         AYUDA DE CENIZA-BOT v4.5
+                    Creado con ❤️ por @isawicca
+--------------------------------------------------------------------------------
+
+¡Hola! Soy Ceniza, tu asistente personal en el servidor. Aquí tienes una guía 
+rápida de todo lo que puedo hacer por ti.
+
+================================================================================
+🎨 IMÁGENES Y CREATIVIDAD
+================================================================================
+
+/dibujar [prompt] [modelo]
+  -> Genera una imagen increíble basada en tu descripción.
+  -> Modelos disponibles:
+     • Fluxeniza (Calidad estándar)
+     • Zeniza (Estilo artístico)
+     • Ceniturbo (Rápido)
+     • Nanoceniza Pro (Ultra calidad, 1 uso diario por usuario)
+
+/image describe [archivo/link]
+  -> ¿Tienes una imagen y no sabes qué es? Yo te la describo.
+
+/image ask [pregunta] [archivo/link]
+  -> Pregúntame lo que quieras sobre una imagen.
+  -> Ejemplo: "ceniza, ¿qué items tiene este inventario?"
+
+/image text [archivo/link]
+  -> Leo el texto que haya dentro de una imagen (OCR).
+
+================================================================================
+🌲 TERRARIA
+================================================================================
+
+/item info [nombre]
+  -> Te doy toda la info de un item: daño, crafteo, drop, etc.
+
+/item ask [pregunta]
+  -> Respondo dudas específicas sobre un item.
+  -> Ejemplo: "¿Cómo consigo la Terra Blade?"
+
+/wiki summarize [link]
+  -> Te resumo una página entera de la Wiki de Terraria para que no leas todo.
+
+/wiki ask [pregunta] [link]
+  -> Respondo preguntas basándome en ese link de la Wiki.
+
+/serverstatus
+  -> Te digo si el servidor de Terraria está Online o Offline.
+
+================================================================================
+🎥 VIDEO Y AUDIO
+================================================================================
+
+/video [prompt] [link/archivo]
+  -> Analizo un video de YouTube o un audio que subas.
+  -> Puedes pedirme resúmenes, buscar momentos clave o traducir.
+  -> Ejemplo: "/video prompt:Resumí esto link:youtube.com/..."
+
+================================================================================
+💬 CHAT
+================================================================================
+
+Simplemente mencióname (@Ceniza) o responde a mis mensajes para charlar.
+Tengo memoria, así que recuerdo de qué estábamos hablando.
+
+================================================================================
+🛡️ MODERACIÓN (Solo Staff)
+================================================================================
+
+/ban, /kick, /timeout    -> Herramientas básicas de sanción.
+/nickname, /role        -> Gestión de usuarios.
+/channel info           -> Ver info técnica del canal.
+/channels list          -> Listar canales públicos.
+/config                 -> Configurar mi comportamiento interno.
+
+--------------------------------------------------------------------------------
+¿Dudas? Contacta a @isawicca en Discord.
+--------------------------------------------------------------------------------
