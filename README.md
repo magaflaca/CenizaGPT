@@ -1,8 +1,7 @@
 # 🔥 Ceniza-Bot v4.5
 
-> [!IMPORTANT]
-> **Hecho con ❤️ por @isawicca**  
-> Un bot de Discord avanzado con **IA Llama 3**, integración profunda con **Terraria** y capacidades de **Visión Artificial**.
+> [!IMPORTANT]  
+> Un bot de Discord avanzado con **IA de Meta**, integración profunda con **Terraria** y capacidades de **Visión Artificial**.
 
 ---
 
@@ -85,5 +84,6 @@
 ## 🤝 Créditos
 
 > [!NOTE]
-> Todo el crédito de creación y mantenimiento va para **@isawicca**.  
+> Creado por **@isawicca**. Contáctame en [Discord](https://discord.gg/bJQ7UbTf).
+> Si tienes dudas, pregúntale a **ChatGPT**.
 > Gracias por usar Ceniza-Bot.
