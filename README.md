@@ -85,5 +85,7 @@
 
 > [!NOTE]
 > Creado por **@isawicca**. Contáctame en [Discord](https://discord.gg/bJQ7UbTf).
+> 
 > Si tienes dudas, pregúntale a **ChatGPT**.
+> 
 > Gracias por usar Ceniza-Bot.
